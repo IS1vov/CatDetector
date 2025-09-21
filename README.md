@@ -1,7 +1,6 @@
 
----
 
-### 3. `CatDetector`
+### `CatDetector`
 
 ```markdown
 # Cat Detector
